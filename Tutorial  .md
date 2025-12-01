@@ -124,10 +124,3 @@ Apply Lean in your workplace and create your first improvement project.
 
 ---
 
-## 🎯 Final Note  
-Lean is not about doing more work.  
-It’s about doing **the right work** with **less effort, less time, and fewer mistakes**.
-
-This tutorial gives you the foundation to begin your Lean journey with clarity and confidence.
-
----
