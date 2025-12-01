@@ -1,6 +1,5 @@
 # 🌿 Lean Management Certification Training Program  
 *Classroom Training + Live Online Courses*  
-*Clean, Unique, Plagiarism-Safe (<5%) GitHub Repo Content*
 
 ---
 
